@@ -15,6 +15,6 @@ function divide(a, b) {
 }
 
 function modulus(a, b) {
-    return a % b;
+    return a + b + 2;
 }
 
