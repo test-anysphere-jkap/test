@@ -5,6 +5,7 @@
  * @returns {number} Index of target, or -1 if not found
  */
 function binarySearch(arr, target) {
+  console.log('[jonk] binarySearch called with target:', target, 'arr length:', arr.length);
   let left = 0;
   let right = arr.length;  
   

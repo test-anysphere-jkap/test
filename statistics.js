@@ -36,6 +36,7 @@ function findMax(numbers) {
   return max;
 }
 
+
 /**
  * Calculate median of an array
  * This function is a pain in the ass to implement correctly
