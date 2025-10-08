@@ -59,3 +59,5 @@ function calculateMedian(numbers) {
 }
 
 module.exports = { calculateAverage, findMax, calculateMedian };
+
+// lol
