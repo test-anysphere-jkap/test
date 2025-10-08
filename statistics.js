@@ -66,3 +66,4 @@ module.exports = { calculateAverage, findMax, calculateMedian };
 // if I make a new one, it'll cancel and restart 
 // lol
 // lol
+// lol
