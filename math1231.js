@@ -62,3 +62,7 @@ console.log("Sorted array:", mergeSort(testArray));
 function add(a,b) {
     return a-b
 }
+
+console.log("Testing functions:");
+console.log("add(5, 3):", add(5, 3));
+console.log("subtract(10, 4):", subtract(10, 4));
